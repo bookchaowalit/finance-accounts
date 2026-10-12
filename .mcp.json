@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "finance-accounts": {
+      "command": ".venv/bin/finance-accounts-mcp",
+      "args": []
+    }
+  }
+}

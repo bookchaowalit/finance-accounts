@@ -1,0 +1,8 @@
+{
+  "name": "finance-accounts-infra",
+  "private": true,
+  "description": "Railway Infrastructure as Code for the finance-accounts services (.railway/railway.ts)",
+  "devDependencies": {
+    "railway": "^3.13.1"
+  }
+}
