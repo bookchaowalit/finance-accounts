@@ -1,5 +1,4 @@
-# finance-accounts
-
+# finance-accounts-api
 The Finance accounts cell: its own API (Railway, serverless) and its own Neon
 database, first generated from `cell.yaml` (one of the ten finance
 services split on 2026-10-12). It
@@ -8,8 +7,8 @@ HTTP with the caller's token.
 
 | | |
 |---|---|
-| API | Railway project `finance-accounts`, service `finance-accounts-api` (Serverless) |
-| Data | Neon project `finance-accounts`, database `finance_accounts` |
+| API | Railway project `finance-accounts-api`, service `finance-accounts-api` (Serverless) |
+| Data | Neon project `finance-accounts-api`, database `finance_accounts` |
 | Registry | solo-empire `repository-catalog/registries/online-systems.yaml` (`finance-accounts`) |
 
 ## API
